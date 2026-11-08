@@ -8,7 +8,10 @@ document.addEventListener("nav", () => {
   const btn = document.querySelector(".film-toggle")
   if (!btn) return
   btn.hidden = false
-  const label = () => { btn.textContent = film.paused ? "播放背景影片" : "暫停背景影片" }
+  const label = () => {
+    btn.classList.toggle("is-paused", film.paused)
+    btn.setAttribute("aria-label", film.paused ? "播放背景影片" : "暫停背景影片")
+  }
   const toggle = () => { if (film.paused) film.play().catch(() => {}); else film.pause() }
   btn.addEventListener("click", toggle)
   film.addEventListener("play", label)

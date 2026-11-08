@@ -1,5 +1,26 @@
 
 document.addEventListener("nav", () => {
+  const film = document.querySelector(".hero--film .film")
+  if (!film) return
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) { film.pause(); return }
+  film.muted = true
+  film.play().catch(() => {})
+  const btn = document.querySelector(".film-toggle")
+  if (!btn) return
+  btn.hidden = false
+  const label = () => { btn.textContent = film.paused ? "播放背景影片" : "暫停背景影片" }
+  const toggle = () => { if (film.paused) film.play().catch(() => {}); else film.pause() }
+  btn.addEventListener("click", toggle)
+  film.addEventListener("play", label)
+  film.addEventListener("pause", label)
+  label()
+  window.addCleanup(() => {
+    btn.removeEventListener("click", toggle)
+    film.removeEventListener("play", label)
+    film.removeEventListener("pause", label)
+  })
+})
+document.addEventListener("nav", () => {
   const $ = (s, r) => (r || document).querySelector(s)
   const $$ = (s, r) => Array.from((r || document).querySelectorAll(s))
   const nEl = $("#dk-n")

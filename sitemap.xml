@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://chdtw.github.io/about</loc>
-    <lastmod>2026-11-23T05:32:47.344Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.005Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/ai-governance/dg-01</loc>
     <lastmod>2024-07-24T16:00:00.000Z</lastmod>
@@ -24,10 +24,10 @@
     <lastmod>2025-12-30T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/ai-governance/</loc>
-    <lastmod>2026-11-23T05:32:47.539Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.205Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/en/about</loc>
-    <lastmod>2026-11-23T05:32:47.547Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.214Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/en/ai-governance/dg-01</loc>
     <lastmod>2024-07-24T16:00:00.000Z</lastmod>
@@ -51,22 +51,43 @@
     <lastmod>2025-12-30T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/en/ai-governance/</loc>
-    <lastmod>2026-11-23T05:32:47.739Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.475Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/en/</loc>
-    <lastmod>2026-11-23T05:32:47.744Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.479Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/en/knowledge-vault/</loc>
-    <lastmod>2026-11-23T05:32:47.747Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.482Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/knowledge-vault/kv-01</loc>
+    <lastmod>2026-11-16T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/knowledge-vault/kv-02</loc>
+    <lastmod>2026-11-17T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/knowledge-vault/kv-03</loc>
+    <lastmod>2026-11-18T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/wealth/faq-01</loc>
+    <lastmod>2026-11-14T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/en/wealth/</loc>
-    <lastmod>2026-11-23T05:32:47.750Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.630Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/wealth/pbwm-01</loc>
+    <lastmod>2024-07-20T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/wealth/pbwm-02</loc>
+    <lastmod>2024-07-21T16:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://chdtw.github.io/en/wealth/pbwm-03</loc>
+    <lastmod>2024-08-20T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/</loc>
-    <lastmod>2026-11-23T05:32:47.755Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.707Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/knowledge-vault/</loc>
-    <lastmod>2026-11-23T05:32:47.758Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.711Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/knowledge-vault/kv-01</loc>
     <lastmod>2026-11-16T16:00:00.000Z</lastmod>
@@ -81,7 +102,7 @@
     <lastmod>2026-11-14T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/wealth/</loc>
-    <lastmod>2026-11-23T05:32:47.817Z</lastmod>
+    <lastmod>2026-11-23T11:14:02.765Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/wealth/pbwm-01</loc>
     <lastmod>2024-07-20T16:00:00.000Z</lastmod>
@@ -93,23 +114,23 @@
     <lastmod>2024-08-20T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/gen-ai</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/datagovernance</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/digital-transformation</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/knowledge-vault</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/wealth-management</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/private-banking</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url><url>
     <loc>https://chdtw.github.io/tags/</loc>
-    <lastmod>2026-11-23T05:32:48.772Z</lastmod>
+    <lastmod>2026-11-23T11:14:03.742Z</lastmod>
   </url></urlset>
